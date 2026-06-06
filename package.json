@@ -1,0 +1,12 @@
+{
+  "name": "medisync-360",
+  "version": "1.0.0",
+  "description": "MediSync 360 - Intelligent Patient Continuity & Hospital Operations Platform",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve ."
+  },
+  "author": "MediSync Product Team",
+  "license": "ISC"
+}
