@@ -47,6 +47,12 @@ MediSync 360 addresses these challenges through a unified healthcare operations 
 
 ---
 
+## Live Demo
+
+https://medi-sync-360.vercel.app/
+
+---
+
 ## Core Features
 
 ### Medical Memory Vault
