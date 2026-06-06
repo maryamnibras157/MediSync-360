@@ -186,21 +186,34 @@ Analytics & Reporting
 
 ## Screenshots
 
-### Dashboard
+<table>
+<tr>
+<td align="center"><b>Command Center</b></td>
+<td align="center"><b>Medical Memory Vault</b></td>
+</tr>
+<tr>
+<td><img src="assets/commandcenter.png" alt="Command Center" width="100%"></td>
+<td><img src="assets/memoryvault.png" alt="Medical Memory Vault" width="100%"></td>
+</tr>
 
-*Add screenshot after deployment*
+<tr>
+<td align="center"><b>Follow-Up Risk Tracker</b></td>
+<td align="center"><b>Family Health Hub</b></td>
+</tr>
+<tr>
+<td><img src="assets/followup.png" alt="Follow-Up Risk Tracker" width="100%"></td>
+<td><img src="assets/familyhealthhub.png" alt="Family Health Hub" width="100%"></td>
+</tr>
 
-### Medical Memory Vault
-
-*Add screenshot after deployment*
-
-### Follow-Up Risk Tracker
-
-*Add screenshot after deployment*
-
-### Family Health Hub
-
-*Add screenshot after deployment*
+<tr>
+<td align="center"><b>Live Queue Management</b></td>
+<td align="center"><b>Billing Management</b></td>
+</tr>
+<tr>
+<td><img src="assets/livequeue.png" alt="Live Queue Management" width="100%"></td>
+<td><img src="assets/billing.png" alt="Billing Management" width="100%"></td>
+</tr>
+</table>
 
 ---
 
