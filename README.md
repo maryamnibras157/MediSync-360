@@ -215,40 +215,6 @@ Analytics & Reporting
 
 ---
 
-## Local Setup
-
-Clone the repository:
-
-```bash
-git clone https://github.com/maryamnibras157/MediSync-360.git
-```
-
-Navigate into the project:
-
-```bash
-cd MediSync-360
-```
-
-Install dependencies:
-
-```bash
-npm install
-```
-
-Run locally:
-
-```bash
-npm start
-```
-
-or
-
-```bash
-npm run dev
-```
-
----
-
 ## Author
 
 **Maryam Nibras**
