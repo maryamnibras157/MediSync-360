@@ -33,7 +33,7 @@ The platform introduces continuity-focused healthcare management through:
 
 ---
 
-## Live Demo
+## Demo Video
 
 [View Live Demo](https://drive.google.com/file/d/1gzN1Ios653oxqluVJqu1_Fqs6gOuE4zy/view?usp=sharing)
 
